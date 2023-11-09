@@ -1,0 +1,169 @@
+{
+    "animals": [
+      {
+        "id": 1,
+        "name": "Cat",
+        "image": "https://img.freepik.com/premium-photo/adorable-3d-cat-characters-wear-cute-funny-colorful-clothes_784625-1085.jpg",
+        "description": "The domestic cat is a small, carnivorous mammal known for its playful and independent nature."
+      },
+      {
+        "id": 2,
+        "name": "Rabbit",
+        "image": "https://i.pinimg.com/550x/15/3e/bc/153ebcd267e19d529fbde399933696f7.jpg",
+        "description": "Rabbits are small herbivorous mammals known for their long ears and hopping locomotion."
+      },
+      {
+        "id": 3,
+        "name": "Dinosaur",
+        "image": "https://i.pinimg.com/236x/e0/e8/cc/e0e8cca50f78b9e73fb73f2d8e3b5273.jpg",
+        "description": "Dinosaurs were a diverse group of reptiles that roamed the Earth millions of years ago, varying in size and appearance."
+      },
+      {
+        "id": 4,
+        "name": "Koala",
+        "image": "https://thumbs.dreamstime.com/b/greeting-card-cartoon-koala-cake-cute-143735905.jpg",
+        "description": "Koalas are marsupials known for their eucalyptus diet and distinctive appearance."
+      },
+      {
+        "id": 5,
+        "name": "Panda",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXXYIDkgqWJV1LVgydBppXjKiSSbXzYrbMDmiQOObbluwfxgNa3wUs0NFASrwzn_7492g&usqp=CAU",
+        "description": "Pandas are known for their black and white coloration and are native to China. They primarily eat bamboo."
+      },
+      {
+        "id": 6,
+        "name": "Bee",
+        "image": "https://clipart-library.com/images/BTgrGLLpc.gif",
+        "description": "Bees are flying insects known for their important role in pollination and honey production."
+      },
+      {
+        "id": 7,
+        "name": "Elephant",
+        "image": "https://img.freepik.com/free-photo/majestic-elephant-perched-stone-generative-ai_260559-486.jpg?size=626&ext=jpg",
+        "description": "Elephants are the largest land mammals, known for their trunk and distinctive appearance."
+      },
+      {
+        "id": 8,
+        "name": "White Cat",
+        "image": "https://img.freepik.com/premium-photo/white-cat-with-blue-eyes-sitting-tree-generative-ai_733139-5721.jpg?size=626&ext=jpg",
+        "description": "White cats are known for their unique and elegant appearance with blue eyes."
+      },
+      {
+        "id": 9,
+        "name": "Dog",
+        "image": "https://img.freepik.com/free-photo/adorable-shiba-inu-dog-studio_23-2150797210.jpg?size=626&ext=jpg",
+        "description": "Dogs are known for their loyal and friendly nature, making them popular pets worldwide."
+      },
+      {
+        "id": 10,
+        "name": "Cats",
+        "image": "https://img.freepik.com/premium-photo/three-toy-animals-are-sitting-row_784625-7823.jpg?size=626&ext=jpg",
+        "description": "Cats are beloved pets, known for their independent and playful behavior."
+      },
+      {
+        "id": 11,
+        "name": "Cat",
+        "image": "https://img.freepik.com/premium-photo/three-toy-animals-are-sitting-row_784625-7823.jpg?size=626&ext=jpg",
+        "description": "Cats are known for their playful and curious nature, making them popular companions."
+      },
+      {
+        "id": 12,
+        "name": "Sloth",
+        "image": "https://t4.ftcdn.net/jpg/05/66/44/29/240_F_566442916_Ex4UBln0Yoj5jnZyYQo0i4Vf8XwxAUNx.jpg",
+        "description": "Sloths are slow-moving mammals known for their relaxed and easygoing lifestyle."
+      },
+      {
+        "id": 13,
+        "name": "African Elephant",
+        "image": "https://images.unsplash.com/photo-1544211412-2a32426e7fd5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8QWZyaWNhbiUyMEVsZXBoYW50fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "description": "The African elephant is the largest terrestrial mammal and the third largest animal in the world. They are herbivores and live in large groups called herds."
+      },
+      {
+        "id": 14,
+        "name": "Arctic Fox",
+        "image": "https://images.unsplash.com/photo-1516590914727-51e55df118d5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8QXJjdGljJTIwRm94fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "description": "The Arctic fox is a small, stocky mammal native to the Arctic regions of the Earth. They are carnivores and primarily eat fish, insects, and small mammals."
+      },
+      {
+        "id": 15,
+        "name": "Bald Eagle",
+        "image": "https://images.unsplash.com/photo-1676950740454-db2c24ebe17c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YmFsZCUyMGVhZ2xlJTIwZmx5aW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "description": "The bald eagle is a large, powerful bird of prey found in North America. They are known for their distinctive appearance, with a large head, white head feathers, and a hooked beak."
+      },
+      {
+        "id": 16,
+        "name": "Bengal Tiger",
+        "image": "https://images.unsplash.com/photo-1586617356423-52763004deac?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8QmVuZ2FsJTIwVGlnZXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "description": "The Bengal tiger is the largest cat species and is native to the Indian subcontinent. They are carnivores and primarily hunt large mammals, such as deer and wild boar."
+      },
+      {
+        "id": 17,
+        "name": "Blue Whale",
+        "image": "https://images.unsplash.com/photo-1621911864149-fc37d035bae9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fEJsdWUlMjBXaGFsZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "description": "The blue whale is the largest animal in the world and is a filter-feeding mammal. They are found in the oceans of the world and can reach lengths of over 100 feet."
+      },
+      {
+        "id": 18,
+        "name": "Brown Bear",
+        "species": "Ursus arctos",
+        "image": "https://images.unsplash.com/photo-1603041762383-714c45ec44d4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YnJvd24lMjBiZWFyfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "description": "The brown bear is a large, powerful mammal found in parts of North America and Eurasia. They are omnivores and primarily eat plants, fish, and small mammals."
+      },
+      {
+        "id": 19,
+        "name": "Butterfly",
+        "image": "https://image.shutterstock.com/image-photo/natural-pastel-background-morpho-butterfly-260nw-1927160003.jpg",
+        "description": "Butterflies are small to medium-sized insects in the order Lepidoptera, characterized by the presence of large, colorful wings that often have a characteristic pattern. They are primarily herbivores and pollinate flowers."
+      },
+      {
+        "id": 20,
+        "name": "Cheetah",
+        "image": "https://media.istockphoto.com/id/144962896/photo/mother-cheetah-and-cubs.jpg?s=612x612&w=0&k=20&c=qn2C-6fKnUqw66r9HCnkzcwEtrPtwwDSs5RU8L9wgDo=",
+        "description": "Cheetahs are the fastest land animals and are known for their spotted coat."
+
+      },
+      {
+         "id": 21,
+         "name": "Chimpanzee",
+         "image": "https://media.istockphoto.com/id/1066195200/photo/monkey-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=hUS9XNAq0V22pKyx9YGnJ24nfgtGM55BPOWXIOWn9Hw=",
+         "description": "The chimpanzee is a large, intelligent primate native to Africa. They are omnivores and live in large social groups called troops, which are led by a dominant male called the alpha male."
+      },
+      {
+         "id": 22,
+         "name": "Clownfish",
+         "image": "https://images.unsplash.com/photo-1516683037151-9a17603a8dc7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNsb3duJTIwZmlzaHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+         "description": "Clownfish are small, colorful marine fish that are found in the Indo-Pacific region. They are herbivores and feed primarily on algae and small invertebrates, such as shrimp and crabs."
+      },
+      {
+       "id": 23,
+       "name": "Dolphin",
+       "image": "https://media.istockphoto.com/id/525733140/photo/dolphin-underwater-on-reef-background.jpg?s=612x612&w=0&k=20&c=xiKFcDh0TWqEAqeLDFvCM73tTTY0G_8V6Z4gP-XZOpU=", 
+       "description": "Dolphins are intelligent, social marine mammals that are found in various oceans around the world. They are primarily carnivores and feed on fish, squid, and other marine animals."
+    },
+    {
+       "id": 24,
+       "name": "Emu",
+       "image": "https://media.istockphoto.com/id/147073727/photo/emu.jpg?s=612x612&w=is&k=20&c=XUJippLcnA2O1xfSHOdIevu4cjVfQIE20NFRwgTOVpU=",
+       "description": "The emu is a large, flightless bird native to Australia and is the largest living bird in the world. They are herbivores and primarily eat grasses, seeds, and insects."
+    },
+    {
+       "id": 25,
+       "name": "Flamingo",
+       "image": "https://images.unsplash.com/photo-1553520077-205eb37650fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZmxhbWluZ298ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+       "description": "Flamingos are large, colorful, long-necked birds that are found in various parts of the world, including Africa, Asia, and the Americas. They are herbivores and feed primarily on algae and small invertebrates, such as crustaceans and insects."
+    },
+    {
+       "id": 26,
+       "name": "Fox",
+       "image": "https://images.unsplash.com/photo-1557008075-7f2c5efa4cfd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Zm94fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+       "description": "Foxes are small to medium-sized mammals belonging to the family Canidae. They are found in various habitats around the world and are known for their cunning and stealthy nature."
+    },
+      {
+         "id": 27,
+         "name": "Giraffe",
+         "image": "https://plus.unsplash.com/premium_photo-1664304457242-5f88718f15ba?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Z2lyYWZmZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+         "description": "The giraffe is a large, long-necked mammal native to Africa. They are herbivores and feed primarily on leaves, twigs, and fruits of various trees and shrubs."
+      }
+      
+    ]
+    }
